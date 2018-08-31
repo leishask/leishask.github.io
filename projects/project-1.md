@@ -14,7 +14,6 @@ summary: An interactive gaming app that I developed through MIT App Inventor as 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/CatchTheEggBlocks.png">
   <img class="ui image" src="../images/CatchTheEggGUI.png">
 </div>
 
