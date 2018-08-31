@@ -86,6 +86,20 @@
         "Software Engineering I",
         "Algorithms"
       ]
+    },
+        {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Information and Computer Science",
+      "studyType": "A.S.",
+      "startDate": "2016-08-22",
+      "endDate": "2018-05-10",
+      "gpa": "3.95",
+      "courses": [
+        "Introduction to Computer Science I and II",
+        "Discrete Mathematics I and II",
+        "Introduction to Scripting"
+        "Introduction to Programming"
+      ]
     }
   ],
   "work": [
