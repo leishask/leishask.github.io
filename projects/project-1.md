@@ -21,8 +21,3 @@ For this project, I was required to create an application that acted as an inter
 
 Through this project I was able to gain an interest in mobile app development. While the MIT AI2 App Inventor is an introduction that uses block coding, I hope to further this interest in a classroom setting that utilizes more advanced methods in mobile app development.
 
-Below is the coding blocks used on MIT AI2 App Inventor:
-
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/CatchTheEggBlocks.png">
-</div>
