@@ -15,7 +15,7 @@ summary: A mathematical game I developed through MIT App Inventor for ICS 110M.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/MITAI2Companion.png">
-  <img class="ui image" src="../images/blocks.jpg">
+  <img class="ui image" src="../images/blocks.png">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
