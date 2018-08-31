@@ -21,4 +21,4 @@ At least two students were scheduled to work at a time with a manager on site. S
 
 Through this experience, I have gained work experience in troubleshooting various devices and creating solutions to those errors, as well as improving my customer service skills and team building skills.
  
-Source: <a href="http://www.leeward.hawaii.edu/ics-thehub">The Hub</a>, <a href="file:///C:/Users/Owner/Documents/Leeward%20CC/ICS%20297D%20Weekly%20Log%20-%20LeishaSoberanoK.pdf">ICS 297D Weekly Log</a>
+Source: <a href="http://www.leeward.hawaii.edu/ics-thehub">The Hub</a>
