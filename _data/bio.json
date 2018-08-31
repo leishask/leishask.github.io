@@ -6,7 +6,7 @@
     "email": "leishask@hawaii.edu",
     "phone": "",
     "website": "https://leishask.github.io/",
-    "summary": "I am a student working towards earning a B.S. in Computer Science degree at the University of Hawaii at Manoa. I previously attended Leeward Community College and received an A.S. in Information and Computer Science degree with honors and a specialization in software development. I expect to graduate in Spring, 2020.",
+    "summary": "I am a student working towards earning a B.S. in Computer Science degree at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020. I previously graduated Leeward Community College in Spring 2018 with an A.S. in Information and Computer Science degree with honors and a specialization in software development.",
     "location": {
       "address": "",
       "postalCode": "96792",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "software development",
+      "name": "Software Development",
       "keywords": [
       ]
     },
     {
-      "name": "data mining",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Photography",
       "keywords": [
       ]
     }
