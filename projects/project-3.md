@@ -1,15 +1,17 @@
 ---
 layout: project
-type: project
+type: Formula 1 Database
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Formula One Database
+permalink: projects/formula1-database
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-12-04
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Microsoft Access
+  - Database
+  - Formula 1
+  - ICS 129
+summary: A group project to create a database on a chosen topic for ICS 129 at Leeward Community College.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
