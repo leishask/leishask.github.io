@@ -2,41 +2,24 @@
 layout: project
 type: project
 image: images/MITAI2AppInventor.png
-title: Divide
-permalink: projects/micromouse
+title: Catch the Egg
+permalink: projects/catch-the-egg
 # All dates must be YYYY-MM-DD format!
-date: 2017-12-12
+date: 2017-11-17
 labels:
   - MIT App Inventor
   - Software Development
   - Apps
-summary: A mathematical game app I developed through MIT App Inventor for ICS 110M.
+summary: An interactive gaming app that I developed through MIT App Inventor as a learning project for ICS 110M.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/blocks.png">
-  <img class="ui image" src="../images/MITAI2Companion.png">
+  <img class="ui image" src="../images/CatchTheEggBlocks.png">
+  <img class="ui image" src="../images/CatchTheEggGUI.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Catch the Eggs is a gaming app that I developed through MIT AI2 App Inventor for ICS 110M. This project was a learning app for the course that was required to meet certain specifications that utilized knowledge gained throughout the course semester.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I was required to create an application that acted as an interactive game. The function of the game is to allow the user to move a "basket" that will catch falling "eggs". If the user catches an egg, the score will increase. However, if the user does not catch the egg, the score will decrease and the "egg" will break. The game resets until the user chooses to start over.
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
+Through this project I was able to gain an interest in mobile app development. While the MIT AI2 App Inventor is an introduction that uses block coding, I hope to further this interest in a classroom setting that utilizes more advanced methods in mobile app development.
