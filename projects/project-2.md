@@ -21,4 +21,4 @@ At least two students were scheduled to work at a time with a manager on site. S
 
 Through this experience, I have gained work experience in troubleshooting various devices and creating solutions to those errors, as well as improving my customer service skills and team building skills.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="http://www.leeward.hawaii.edu/ics-thehub"><i class="large github icon"></i>The Hub</a>
