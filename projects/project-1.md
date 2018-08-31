@@ -13,9 +13,7 @@ labels:
 summary: An interactive gaming app that I developed through MIT App Inventor as a learning project for ICS 110M.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/CatchTheEggGUI.png">
-</div>
+<img class="ui medium left floated rounded image" src="../images/CatchTheEggGUI.png">
 
 Catch the Egg is a gaming app that I developed through MIT AI2 App Inventor for ICS 110M. This project was a learning app for the course that was required to meet certain specifications that utilized knowledge gained throughout the course semester.
 
