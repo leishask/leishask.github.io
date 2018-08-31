@@ -1,25 +1,24 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/TheHubStudentHelpDeskLogo.jpg
+title: The Hub Intern
+permalink: projects/the-hub-intern
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-01-08
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Troubleshooting
+  - Help Desk
+  - Leeward Community College
+summary: I worked as an ICS student intern at The Hub Leeward Student Help Desk at Leeward Community College.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Hub at Leeward Community College is an ICS Helpdesk managed by students, for students. It is designed as an internship for ICS students to gain practical work experience in the computer field by applying classroom knowledge and to develop job skills.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+At least two students were scheduled to work at a time with a manager on site. Students were required to use previous classroom knowledge to solve problems, provide advice and troubleshoot hardware, software, cloud and Wi-Fi concerns. The Hub functioned as a running business with a reception and workspaces that included common tools and diagnostic devices.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Through this experience, I have gained work experience in troubleshooting various devices and creating solutions to those errors, as well as improving my customer service skills and team building skills.
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
