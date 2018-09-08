@@ -14,12 +14,12 @@ labels:
 ## Put Your Mind to Work
 Have you ever asked a question and received a wise remark instead of an answer? This could have been the result of you being uninformed of how to correctly ask well-developed questions that evoke useful answers, or an answer period. I witness students every day ask "bad questions" that could be answered by simply referring to the syllabus. Why would someone repeat information that has been discussed and is easily accessible? 
 
-Always research and look through resources to find a solution to your problem or concern before consulting an expert. This will show that you made an effort. Plus, you may even find the answer to your question. The world is at our fingertips, yet we waste valuable time asking bad questions. When we start asking smarter questions that are thought-out, straightforward and clear, we can further our horizons.
+Always research and look through resources to find a solution to your problem or concern before consulting an expert. This will show that you made an effort. Plus, you may even find the answer to your question. The world is at our fingertips, yet we waste valuable time asking bad questions. When we start asking smarter questions that are thought-out, straightforward and clear, we can further our understanding.
 
 ## Bad Questions are a Thing of the Past
-Browsing through Stack Overflow, a question and answer site, I came across a good example of a bad question. This very question was actually declared "closed" by several users because it was so poorly executed that it was deemed useless to others.
+Browsing through Stack Overflow, a question and answer site, I came across a good example of a bad question. This very question was actually declared "closed" by several users because it was so poorly executed that it was deemed useless to others. You cannot expect someone to answer a question that they do not understand.
 
-In the following example, a user asks how to replace '>' with '>\n' in a java code.
+In the following example, a user asks how to replace '>' with '>\n' in a java code. The question itself can be interpreted in numerous ways.
 
 ```
 Q: Can anybody help me in replacing '>' with '>\n' inside string in java?
@@ -32,10 +32,10 @@ String str = "abc>";
 str = str.replace(">",">\n");
 ```
 
-First off, the user's question is asking if someone will help them. Yet it is unclear what exactly the user is having a problem with. It seems that they are looking to debug the code without providing the specific error they are receiving. With a little more clarification and better rewording, the user could easily turn this question into a question that yields useful results.
+First off, the user's question is asking if someone will help them and yet it is unclear what exactly the problem is. It seems that they are looking to debug the code. However, they did not provide the specific error they are receiving or output they are expecting. With a little more clarification and better rewording, the user could easily turn this unfit question into a question that yields useful results for everyone.
 
 ## Solving Solutions with Smart Questions
-If you want real answers, you have to ask smarter, detailed and concise questions. To avoid other users from voting your question to be closed, the following example will illustrate a question that will deliver beneficial answers.
+If you want real answers, you have to ask smarter, detailed and concise questions. To avoid other users from voting your question to be closed, the following example will demonstrate a question that has delivered beneficial answers.
 
 ```
 Q: Why is S::x not odr-used?
@@ -74,3 +74,10 @@ The problem is that the discarded-value expression &S::x has no potential result
 
 Then, how can you explain that S::x is not odr-used?
 ```
+
+While everything can be improved somehow, the above question is clear with evidence of prior research. For this example, the user is looking for clarification about a possible inaccuracy in C++. The user provided details and facts to back up their concern. Which shows that the user researched an explanation before consulting the Stack Overflow community. In return, the user received a detailed explanation to the question as well as invoking other users to discuss the topic further. Isn't that really what asking questions are about? Furthering the knowledge of yourself and others?
+
+## Put it to the Test
+Asking a question can be either beneficial or useless depending on how you ask, not just what you ask. If you ask a question that is vague and self-serving, you will most likely receive an answer that is unfavorable to you, maybe even no answer at all. People take the time out of their lives to answer questions that can benefit more than just one person, especially if the answer cannot be found anywhere else.
+
+Next time you ask a question, ask a smart question. Remember to do your research first, be courteous, be concise, and be considerate.
