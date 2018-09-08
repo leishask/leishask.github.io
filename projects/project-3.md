@@ -23,7 +23,7 @@ My group decided to create a database for Formula 1 racing. The database include
 
 Overall, I acquired a leadership role on this project. I took the position of the "leader" role because I had a clear understanding of how a database is created and implemented in Microsoft Access. Essentially, I made the big decisions on the approach we should take and the materials we should utilize.
 
-With the theme we chose, I created and implemented the database tables and relationships. I created the ER Diagram of the database, the Microsoft Access database file, a running log for ideas and the task list, and took the lead on the presentation. I also retreived data of the Formula 1 drivers for the drivers table. This project allowed me the opportunity to further experience a leadership role and implement a database that could be used in a real life situation.
+With the theme we chose, I created and implemented the database tables and relationships. I created the ER Diagram of the database, the Microsoft Access database file, a running log for ideas and the task list, and took the lead on the presentation. I also retreived Formula 1 Racing data for the track, team and race tables. This project allowed me the opportunity to further experience a leadership role and implement a database that could be used in a real life situation.
 
 Here are the SQL Statements we used in our Microsoft Access database:
 
