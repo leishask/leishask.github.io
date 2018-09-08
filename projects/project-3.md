@@ -9,6 +9,7 @@ date: 2017-12-04
 labels:
   - Microsoft Access
   - Databases
+  - SQL
   - Formula 1
   - ICS 129
 summary: A group project to create a database on a chosen topic for ICS 129 at Leeward Community College.
