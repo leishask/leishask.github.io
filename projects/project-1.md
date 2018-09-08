@@ -10,6 +10,9 @@ labels:
   - MIT App Inventor
   - Software Development
   - Apps
+  - Java
+  - Kawa
+  - Scheme
 summary: An interactive gaming app that I developed through MIT App Inventor as a learning project for ICS 110M.
 ---
 
@@ -21,3 +24,6 @@ For this project, I was required to create an application that acted as an inter
 
 Through this project I was able to gain an interest in mobile app development. While the MIT AI2 App Inventor is an introduction that uses block coding, I hope to further this interest in a classroom setting that utilizes more advanced methods in mobile app development.
 
+Here is a part of the code that controlled the "egg" if it dropped or was captured:
+
+<img class="ui medium left floated rounded image" src="../images/eggDropBlock.png">
