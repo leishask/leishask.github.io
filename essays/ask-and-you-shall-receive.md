@@ -83,3 +83,5 @@ While everything can be improved somehow, the above question is clear with evide
 Asking a question can be either beneficial or useless depending on how you ask, not just what you ask. If you ask a question that is vague and self-serving, you will most likely receive an answer that is unfavorable to you, maybe even no answer at all. People take the time out of their lives to answer questions that can benefit more than just one person, especially if the answer cannot be found anywhere else.
 
 Next time you ask a question, ask a smart question. Remember to do your research first, be courteous, be concise, and be considerate.
+
+You can check out the examples from Stack Overflow here: [Bad Example](https://stackoverflow.com/questions/44687017/can-anybody-help-me-in-replacing-with-n-inside-string-in-java) and [Good Example](https://stackoverflow.com/questions/47952024/why-is-sx-not-odr-used)
