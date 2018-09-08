@@ -26,4 +26,4 @@ Through this project I was able to gain an interest in mobile app development. W
 
 Here is a part of the code that controlled the "egg" if it dropped or was captured:
 
-<img class="ui medium left floated rounded image" src="../images/eggDropBlock.png">
+<img class="ui medium left floated rounded image" src="../images/eggDropBlock.PNG">
