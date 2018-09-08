@@ -11,7 +11,7 @@ labels:
   - Asking Smart Questions
 ---
 
-<img class="ui medium left floated image" src="../images/stupidQuestions.jpg">
+<img class="ui medium right floated image" src="../images/stupidQuestions.jpg">
 
 ## STFW and RTFM
 Have you ever asked a question and received a wise remark instead of an answer? This could have been the result of you being uninformed of how to correctly ask well-developed questions that evoke useful answers, or an answer period. I witness students every day ask "bad questions" that could be answered by simply referring to the syllabus. Why would someone repeat information that has been discussed and is easily accessible? 
