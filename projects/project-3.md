@@ -18,6 +18,8 @@ summary: A group project to create a database on a chosen topic for ICS 129 at L
 
 For this group project, we were required to create a database from scratch using the 2-step process: information-level design and physical-level design. The database had to have a purpose and a general theme.
 
-My group decided to create a database for Formula 1 racing. The database included four tables that represented the teams, drivers, tracks, and scheduled races. Expanding further, each table included at least four relevant attributes, a primary key, and foreign keys that linked the tables together.
+My group decided to create a database for Formula 1 racing. The database included four tables that represented the teams, drivers, tracks, and scheduled races. Expanding further, each table included at least four relevant attributes, a primary key, and foreign keys that linked the tables together. Also, forms and reports were created for data input and data viewing. After our database was completed, we presented it to our professor as a final project.
 
-Overall, I acquired a leadership role on this project. Essentially, I made the big decisions on the approach we should take and the materials we should implement. This project allowed me the opportunity to further experience a leadership role and databases.
+Overall, I acquired a leadership role on this project. I took the position of the "leader" role because I had a clear understanding of how a database is created and implemented in Microsoft Access. Essentially, I made the big decisions on the approach we should take and the materials we should utilize.
+
+With the theme we chose, I created and implemented the database tables and relationships. I created the ER Diagram of the database, the Microsoft Access database file, a running log for ideas and the task list, and took the lead on the presentation. I also retreived data of the Formula 1 drivers for the drivers table. This project allowed me the opportunity to further experience a leadership role and implement a database that could be used in a real life situation.
