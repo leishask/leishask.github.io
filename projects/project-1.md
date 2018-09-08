@@ -26,6 +26,6 @@ To complete this project, I created a new project on MIT App Inventor and first 
 
 Through this project I was able to gain an interest in mobile app development. While the MIT AI2 App Inventor is an introduction that uses block coding, I hope to further this interest in a classroom setting that utilizes more advanced methods in mobile app development.
 
-Here is a part of the code that controlled the "egg" if it dropped or was captured:
+Here is a part of the code that controlled the outcome of the score and "egg" image when it was not captured:
 
 <img class="ui large floated rounded image" src="../images/eggDropBlock.PNG">
