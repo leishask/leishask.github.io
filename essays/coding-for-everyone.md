@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: false
-title: Ask and You Shall Receive
+title: Coding for Everyone
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-20
 labels:
@@ -13,4 +13,5 @@ labels:
 ---
 
 # <img class="ui medium right floated image" src="../images/stupidQuestions.jpg">
+
 
