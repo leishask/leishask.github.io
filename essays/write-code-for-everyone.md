@@ -26,7 +26,7 @@ Don't get me wrong, there are some things to get use to, mainly the spacing and 
 ### if (codingStandard === true) { impression = essay; return impression; }
 As a software engineer, we should know by now that we do not write code for ourselves. We will not be the only spectators judging our abilities. So we cannot assume that others will have the capability to understand our "individualstic" style of coding. If no one can understand your code, how can it be improved? How can you become a better software engineer without receiving viable feedback?
 
-I am not saying it is impossible, or that you have to conform to the standards. But utilizing a coding standard would be a great asset to yourself, to your fellow coworkers, and to anyone else who happens upon your hard work. Do not let your hard work go unnoticed because it is unreadable.
+I am not saying it is impossible, or that you have to conform to the standards. But utilizing a coding standard would be a great asset to yourself, to your fellow coworkers, and to anyone else who happens upon your hard work. Do not let your hard work go unnoticed because it is unreadable. Enforce a coding standard.
 
 ## }
 ## console.log(readThis(WriteCodeForEveryone));
