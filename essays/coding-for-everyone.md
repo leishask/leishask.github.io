@@ -22,6 +22,6 @@ The first programming language I learned was Java using the jGRASP development e
 Since I have a good foundation utilizing a coding standard, switching into IntelliJ and implementing the ESLint coding standard is a cake.slice(1) ("piece of cake"). Don't get me wrong, there are some things to get use to, such as spacing. However, coding can be an art and coding standards is just another tool to elevate the connection and understanding between your code and it's audience.
 
 ### if (codingStandard === true) { return essay === impression; }
-As a software engineer, we should know by now that we do not write code for ourselves. We will not be the only . So we cannot assume that others will have the ability to understand 
+As a software engineer, we should know by now that we do not write code for ourselves. We will not be the only spectators judging our abilities. So we cannot assume that others will have the capability to understand our "individualstic" style of coding. If no one can understand your code, how can it be improved? How can you become a better software engineer without receiving viable feedback?
 
 ## }
