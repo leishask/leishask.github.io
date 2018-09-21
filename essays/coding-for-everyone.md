@@ -19,7 +19,7 @@ Right off the stack, coding standards distinguish the readability of your progra
 ### const codingStandard = true;
 The first programming language I learned was Java using the jGRASP development environment. Although the course did not implement a specific coding standard, there was definitely a standard and expectation to the visual aspect and readability of my code. For all my programming assignments, I was required to include comments every 3-5 lines, indentation, empty lines, etc. Being a person who appreciates organization and uniformity, standards made my code picturesque. Easily readable. Easily understood. Easy A.
 	
-Since I have a good foundation utilizing a coding standard, switching into IntelliJ with the ESLint coding standard is a piece of cake. 
+Since I have a good foundation utilizing a coding standard, switching into IntelliJ and implementing the ESLint coding standard is a cake.slice(1) ("piece of cake"). 
 ## }
 
 ### H
