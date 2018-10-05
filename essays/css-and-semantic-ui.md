@@ -17,13 +17,13 @@ We saw what HTML could do. Then, we saw what HTML with CSS could do. Now, we kno
 
 Simply using just HTML and I was looking at a white webpage with black words and images. However, after tossing in a CSS stylesheet the appearance is increasingly more attractice. Could it get any better? Yes, it can. After three hours of learning useful components and elements of the Semantic UI framework, things just got more real.
 
-<div class="ui three column grid container">
+<div class="ui grid">
 <div class="column">
-<img class="ui mini image" src="../images/browserhistory1.png">
+<img class="ui small image" src="../images/browserhistory1.png">
 <div class="column">
-<img class="ui mini image" src="../images/browserhistory2.png">
+<img class="ui small image" src="../images/browserhistory2.png">
 <div class="column">
-<img class="ui mini image" src="../images/browserhistorysemantic.png">
+<img class="ui small image" src="../images/browserhistorysemantic.png">
 </div>
 </div>
 </div>
