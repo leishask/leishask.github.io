@@ -15,9 +15,9 @@ labels:
   <div class="row">
     <div class="left floated column">
       <img class="ui medium right image" src="../images/browserhistory1.png">
+    </div>
     <div class="right floated column">
       <img class="ui medium right image" src="../images/browserhistory2.png">
-    </div>
     </div>
   </div>
   <div class="row">
