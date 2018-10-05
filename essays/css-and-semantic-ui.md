@@ -40,7 +40,7 @@ The navigation bar at the top? Semantic UI. The image background that draws in y
 
 The benefits of learning and incorporating a framework such as Semantic UI, is the usability and appeal of the user interface. It is right in the name, UI (user interface).
 
-The four images above were arranged using Semantic UI code. While it is still a small advancement in appearance, we can only go up from here.
+The four images above were arranged using the grid collection in Semantic UI code. While it is still just a small advancement in appearance, we can only go up from here.
 
 ```
 <div class="ui grid">
