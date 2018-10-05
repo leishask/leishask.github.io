@@ -11,10 +11,14 @@ labels:
   - CSS
 ---
 
-<img class="ui medium right floated image" src="../images/browserhistory1.png">
-<img class="ui medium right floated image" src="../images/browserhistory2.png">
-<img class="ui medium right floated image" src="../images/browserhistorysemantic.png">
-<img class="ui medium right floated image" src="../images/islandsnow.png">
+<div class="ui right aligned grid">
+  <div class="six wide column">
+    <img class="ui medium right image" src="../images/browserhistory1.png">
+    <img class="ui medium right image" src="../images/browserhistory2.png">
+    <img class="ui medium right image" src="../images/browserhistorysemantic.png">
+    <img class="ui medium right image" src="../images/islandsnow.png">
+  </div>
+</div>
 
 ## HTML + CSS + Semantic UI
 
