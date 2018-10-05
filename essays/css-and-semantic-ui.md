@@ -20,11 +20,11 @@ Simply using just HTML and I was looking at a white webpage with plain black tex
 Could it get any better? Yes, it can and it did. After three hours of learning the components and elements of the Semantic UI framework, things just got more interesting.
 
 <div class="ui grid">
-  <div class="center aligned row">
+  <div class="row">
       <img class="ui centered medium image" src="../images/browserhistory1.png">
       <img class="ui medium image" src="../images/browserhistory3.png">
   </div>
-  <div class="center aligned row">
+  <div class="row">
       <img class="ui centered medium image" src="../images/browserhistorysemantic.png">
       <img class="ui medium image" src="../images/islandsnow.png">
   </div>
