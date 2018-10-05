@@ -26,12 +26,12 @@ Simply using just HTML and I was looking at a white webpage with plain black tex
 Of course, learning a framework takes time and effort, as does everything. If you can transform a "styled" HTML code
 
 <div class="ui grid">
-  <div class="four wide column"></div>
-    <img class="ui medium right floated image" src="../images/browserhistory1.png">
-  <div class="four wide column"></div>
-    <img class="ui medium right floated image" src="../images/browserhistory2.png">
-  <div class="four wide column"></div>
-    <img class="ui medium right floated image" src="../images/browserhistorysemantic.png">
-  <div class="four wide column"></div>
-    <img class="ui medium right floated image" src="../images/islandsnow.png">
+  <div class="four column"></div>
+    <img class="ui small right floated image" src="../images/browserhistory1.png">
+  <div class="four column"></div>
+    <img class="ui small right floated image" src="../images/browserhistory2.png">
+  <div class="four column"></div>
+    <img class="ui small right floated image" src="../images/browserhistorysemantic.png">
+  <div class="four column"></div>
+    <img class="ui small right floated image" src="../images/islandsnow.png">
 </div>
