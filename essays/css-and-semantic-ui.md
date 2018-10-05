@@ -13,9 +13,10 @@ labels:
 
 ## HTML + CSS + Semantic UI
 
-<img class="ui medium right image" src="../images/browserhistory1.png">
+<img class="ui medium right floated image" src="../images/browserhistory1.png">
 <img class="ui medium right floated image" src="../images/browserhistory2.png">
 <img class="ui medium right floated image" src="../images/browserhistorysemantic.png">
+<img class="ui medium right floated image" src="../images/islandsnow.png">
 
 We saw what HTML could do. Then, we saw what HTML with CSS could do. Now, we know what HTML with CSS and Semantic UI can do together. Which is to create a beautiful and user friendly webpage, or "recreate" a beautiful and user friendly webpage, in our case.
 
