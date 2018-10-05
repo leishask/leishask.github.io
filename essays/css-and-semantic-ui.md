@@ -31,7 +31,7 @@ The navigation bar at the top? Semantic UI. The image background that draws in y
 The benefits of learning and incorporating a framework such as Semantic UI, is the usability and appeal of the user interface. It is right in the name, UI (user interface).
 
   </div>
-    <div class="right floated six wide column">
+    <div class="right floated column">
     <img class="ui medium right image" src="../images/browserhistory1.png">
     <img class="ui medium right image" src="../images/browserhistory2.png">
     <img class="ui medium right image" src="../images/browserhistorysemantic.png">
