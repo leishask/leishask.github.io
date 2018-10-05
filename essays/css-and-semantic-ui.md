@@ -12,17 +12,13 @@ labels:
 ---
 
 <div class="ui grid">
-  <div class="row">
+  <div class="center aligned row">
       <img class="ui medium image" src="../images/browserhistory1.png">
       <img class="ui medium image" src="../images/browserhistory2.png">
   </div>
-  <div class="row">
-    <div class="left floated column">
+  <div class="center aligned row">
       <img class="ui medium image" src="../images/browserhistorysemantic.png">
-    </div>
-    <div class="right floated column">
       <img class="ui medium image" src="../images/islandsnow.png">
-    </div>
   </div>
 </div>
 
