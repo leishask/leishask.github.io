@@ -11,11 +11,11 @@ labels:
   - CSS
 ---
 
-<img class="ui medium right floated image" src="../images/browserhistory1.png">
-<img class="ui medium right image" src="../images/browserhistory2.png">
-<img class="ui medium right floated image" src="../images/browserhistorysemantic.png">
-
 ## HTML + CSS + Semantic UI
+
+<img class="ui medium right floated image" src="../images/browserhistory1.png">
+<img class="ui medium right floated image" src="../images/browserhistory2.png">
+<img class="ui medium right floated image" src="../images/browserhistorysemantic.png">
 
 We saw what HTML could do. Then, we saw what HTML with CSS could do. Now, we know what HTML with CSS and Semantic UI can do together. Which is to create a beautiful and user friendly webpage, or "recreate" a beautiful and user friendly webpage, in our case.
 
@@ -24,3 +24,14 @@ Simply using just HTML and I was looking at a white webpage with plain black tex
 ## Time + Effort
 
 Of course, learning a framework takes time and effort, as does everything. If you can transform a "styled" HTML code
+
+<div class="ui grid">
+  <div class="four wide column"></div>
+    <img class="ui medium right floated image" src="../images/browserhistory1.png">
+  <div class="four wide column"></div>
+    <img class="ui medium right floated image" src="../images/browserhistory2.png">
+  <div class="four wide column"></div>
+    <img class="ui medium right floated image" src="../images/browserhistorysemantic.png">
+  <div class="four wide column"></div>
+    <img class="ui medium right floated image" src="../images/islandsnow.png">
+</div>
