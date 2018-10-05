@@ -13,7 +13,7 @@ labels:
 
 ## HTML + CSS + Semantic UI
 
-<img class="ui medium right floated image" src="../images/browserhistory1.png">
+<img class="ui medium right image" src="../images/browserhistory1.png">
 <img class="ui medium right floated image" src="../images/browserhistory2.png">
 <img class="ui medium right floated image" src="../images/browserhistorysemantic.png">
 
@@ -23,15 +23,13 @@ Simply using just HTML and I was looking at a white webpage with plain black tex
 
 ## Time + Effort
 
-Of course, learning a framework takes time and effort, as does everything. If you can transform a "styled" HTML code
+Of course, learning a framework takes time and effort, as does everything. However, the results are the ability to transform a simple "styled" HTML code into an everyday webpage, with all the bells and whistles. The navigation bar at the top? Semantic UI. The image background that draws in your eyes? Semantic UI. The dropdown menu that whisks you away to another page? Semantic UI.
 
 <div class="ui grid">
-  <div class="four column"></div>
-    <img class="ui small right floated image" src="../images/browserhistory1.png">
-  <div class="four column"></div>
-    <img class="ui small right floated image" src="../images/browserhistory2.png">
-  <div class="four column"></div>
-    <img class="ui small right floated image" src="../images/browserhistorysemantic.png">
-  <div class="four column"></div>
-    <img class="ui small right floated image" src="../images/islandsnow.png">
+  <div class="row">
+    <img class="ui medium right image" src="../images/browserhistory1.png">
+    <img class="ui medium right image" src="../images/browserhistory2.png">
+    <img class="ui medium right image" src="../images/browserhistorysemantic.png">
+    <img class="ui medium right image" src="../images/islandsnow.png">
+  </div>
 </div>
