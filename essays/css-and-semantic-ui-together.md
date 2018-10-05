@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: CSS and Semantic UI?
+title: CSS and Semantic UI Together
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
 labels:
