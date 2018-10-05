@@ -12,14 +12,9 @@ labels:
 ---
 
 <div class="ui right floated grid">
-  <div class="right floated six wide column">
-    <img class="ui medium right image" src="../images/browserhistory1.png">
-    <img class="ui medium right image" src="../images/browserhistory2.png">
-    <img class="ui medium right image" src="../images/browserhistorysemantic.png">
-    <img class="ui medium right image" src="../images/islandsnow.png">
-  </div>
-  <div class="left floated column">
-  ## HTML + CSS + Semantic UI
+  <div class="column">
+
+## HTML + CSS + Semantic UI
 
 We saw what HTML could do. Then, we saw what HTML with CSS could do. Now, we know what HTML with CSS and Semantic UI can do together. Which is to create a beautiful and user friendly webpage, or "recreate" a beautiful and user friendly webpage, in our case.
 
@@ -35,6 +30,12 @@ The navigation bar at the top? Semantic UI. The image background that draws in y
 
 The benefits of learning and incorporating a framework such as Semantic UI, is the usability and appeal of the user interface. It is right in the name, UI (user interface).
 
+  </div>
+    <div class="right floated six wide column">
+    <img class="ui medium right image" src="../images/browserhistory1.png">
+    <img class="ui medium right image" src="../images/browserhistory2.png">
+    <img class="ui medium right image" src="../images/browserhistorysemantic.png">
+    <img class="ui medium right image" src="../images/islandsnow.png">
   </div>
 </div>
 
