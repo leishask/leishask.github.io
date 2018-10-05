@@ -26,15 +26,6 @@ We saw what HTML could do. Then, we saw what HTML with CSS could do. Now, we kno
 
 Simply using just HTML and I was looking at a white webpage with plain black text and images, talk about boring. Then, after tossing in a CSS stylesheet the appearance is increasingly more attractice with some color here, a column there. Could it get any better? Yes, it can and it did. After three hours of learning the components and elements of the Semantic UI framework, things just got more interesting.
 
-<div class="ui right aligned floated grid">
-  <div class="right floated column">
-    <img class="ui medium right image" src="../images/browserhistory1.png">
-    <img class="ui medium right image" src="../images/browserhistory2.png">
-    <img class="ui medium right image" src="../images/browserhistorysemantic.png">
-    <img class="ui medium right image" src="../images/islandsnow.png">
-  </div>
-</div>
-
 ## Time + Effort
 
 Of course, learning a framework takes time and effort, as does everything. However, the results are the ability to transform a simple "styled" HTML code into an everyday webpage, with all the bells and whistles.
