@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="ui grid">
-  <div class="right aligned six wide column">
+  <div class="right floated six wide column">
     <img class="ui medium right image" src="../images/browserhistory1.png">
     <img class="ui medium right image" src="../images/browserhistory2.png">
     <img class="ui medium right image" src="../images/browserhistorysemantic.png">
