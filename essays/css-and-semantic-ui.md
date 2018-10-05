@@ -27,7 +27,7 @@ Simply using just HTML and I was looking at a white webpage with plain black tex
 Of course, learning a framework takes time and effort, as does everything. However, the results are the ability to transform a simple "styled" HTML code into an everyday webpage, with all the bells and whistles. The navigation bar at the top? Semantic UI. The image background that draws in your eyes? Semantic UI. The dropdown menu that whisks you away to another page? Semantic UI.
 
 <div class="ui grid">
-  <div class="row">
+  <div class="column">
     <img class="ui medium right image" src="../images/browserhistory1.png">
     <img class="ui medium right image" src="../images/browserhistory2.png">
     <img class="ui medium right image" src="../images/browserhistorysemantic.png">
