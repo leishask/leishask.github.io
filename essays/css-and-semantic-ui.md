@@ -11,12 +11,12 @@ labels:
   - CSS
 ---
 
-<div class="ui grid">
+<div class="ui floated grid">
   <div class="right floated column">
-    <img class="ui medium right image" src="../images/browserhistory1.png">
-    <img class="ui medium right image" src="../images/browserhistory2.png">
-    <img class="ui medium right image" src="../images/browserhistorysemantic.png">
-    <img class="ui medium right image" src="../images/islandsnow.png">
+    <img class="ui medium right floated image" src="../images/browserhistory1.png">
+    <img class="ui medium right floated image" src="../images/browserhistory2.png">
+    <img class="ui medium right floated image" src="../images/browserhistorysemantic.png">
+    <img class="ui medium right floated image" src="../images/islandsnow.png">
   </div>
 </div>
 
