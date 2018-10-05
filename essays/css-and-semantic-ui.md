@@ -44,11 +44,11 @@ The four images above were arranged using Semantic UI code. While it is still a 
 
 ```
 <div class="ui grid">
-  <div class="center aligned row">
+  <div class="row">
       <img class="ui centered medium image" src="../images/browserhistory1.png">
       <img class="ui medium image" src="../images/browserhistory3.png">
   </div>
-  <div class="center aligned row">
+  <div class="row">
       <img class="ui centered medium image" src="../images/browserhistorysemantic.png">
       <img class="ui medium image" src="../images/islandsnow.png">
   </div>
