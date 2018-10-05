@@ -20,7 +20,7 @@ Simply using just HTML and I was looking at a white webpage with plain black tex
 <div class="ui grid">
   <div class="center aligned row">
       <img class="ui centered medium image" src="../images/browserhistory1.png">
-      <img class="ui medium image" src="../images/browserhistory2.png">
+      <img class="ui medium image" src="../images/browserhistory3.png">
   </div>
   <div class="center aligned row">
       <img class="ui centered medium image" src="../images/browserhistorysemantic.png">
