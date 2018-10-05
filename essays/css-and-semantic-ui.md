@@ -11,12 +11,16 @@ labels:
   - CSS
 ---
 
-## HTML + CSS + Semantic UI
+<div class="ui right floated grid">
+  <div class="column">
+    <img class="ui medium right image" src="../images/browserhistory1.png">
+    <img class="ui medium right image" src="../images/browserhistory2.png">
+    <img class="ui medium right image" src="../images/browserhistorysemantic.png">
+    <img class="ui medium right image" src="../images/islandsnow.png">
+  </div>
+</div>
 
-<img class="ui medium right floated image" src="../images/browserhistory1.png">
-<img class="ui medium right floated image" src="../images/browserhistory2.png">
-<img class="ui medium right floated image" src="../images/browserhistorysemantic.png">
-<img class="ui medium right floated image" src="../images/islandsnow.png">
+## HTML + CSS + Semantic UI
 
 We saw what HTML could do. Then, we saw what HTML with CSS could do. Now, we know what HTML with CSS and Semantic UI can do together. Which is to create a beautiful and user friendly webpage, or "recreate" a beautiful and user friendly webpage, in our case.
 
@@ -24,9 +28,15 @@ Simply using just HTML and I was looking at a white webpage with plain black tex
 
 ## Time + Effort
 
-Of course, learning a framework takes time and effort, as does everything. However, the results are the ability to transform a simple "styled" HTML code into an everyday webpage, with all the bells and whistles. The navigation bar at the top? Semantic UI. The image background that draws in your eyes? Semantic UI. The dropdown menu that whisks you away to another page? Semantic UI.
+Of course, learning a framework takes time and effort, as does everything. However, the results are the ability to transform a simple "styled" HTML code into an everyday webpage, with all the bells and whistles.
 
-<div class="ui grid">
+The navigation bar at the top? Semantic UI. The image background that draws in your eyes? Semantic UI. The dropdown menu that whisks you away to another page? Semantic UI.
+
+## Benefits
+
+The benefits of learning and incorporating a framework such as Semantic UI, is the usability and appeal of the user interface. It is right in the name, UI (user interface).
+
+<div class="ui right floated grid">
   <div class="column">
     <img class="ui medium right image" src="../images/browserhistory1.png">
     <img class="ui medium right image" src="../images/browserhistory2.png">
