@@ -21,8 +21,10 @@ labels:
     </div>
   </div>
   <div class="row">
+    <div class="left floated column">
+      <img class="ui medium right image" src="../images/browserhistorysemantic.png">
+    </div>
     <div class="right floated column">
-       <img class="ui medium right image" src="../images/browserhistorysemantic.png">
       <img class="ui medium right image" src="../images/islandsnow.png">
     </div>
   </div>
