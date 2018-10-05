@@ -11,8 +11,8 @@ labels:
   - CSS
 ---
 
-<div class="ui right aligned grid">
-  <div class="six wide column">
+<div class="ui grid">
+  <div class="right aligned six wide column">
     <img class="ui medium right image" src="../images/browserhistory1.png">
     <img class="ui medium right image" src="../images/browserhistory2.png">
     <img class="ui medium right image" src="../images/browserhistorysemantic.png">
