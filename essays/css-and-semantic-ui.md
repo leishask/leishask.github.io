@@ -11,7 +11,7 @@ labels:
   - CSS
 ---
 
-<div class="ui floated grid">
+<div class="ui right aligned floated grid">
   <div class="right floated column">
     <img class="ui medium right image" src="../images/browserhistory1.png">
     <img class="ui medium right image" src="../images/browserhistory2.png">
