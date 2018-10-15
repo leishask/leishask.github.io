@@ -19,7 +19,7 @@ Simply using just HTML and I was looking at a white webpage with plain black tex
 
 Could it get any better? Yes, it can and it did. After three hours of learning the components and elements of the Semantic UI framework, things just got more interesting.
 
-<div class="ui two column centered grid">
+<div class="ui four column centered grid">
   <div class="three column centered row">
     <div class="column"><img class="ui medium image" src="../images/browserhistory1.png"></div>
     <div class="column"><img class="ui medium image" src="../images/browserhistory3.png"></div>
