@@ -24,7 +24,7 @@ Could it get any better? Yes, it can and it did. After three hours of learning t
     <div class="column"><img class="ui middle image" src="../images/browserhistory1.png"></div>
     <div class="column"><img class="ui middle image" src="../images/browserhistory3.png"></div>
   </div>
-  <div class="four column centered row">
+  <div class="two column centered row">
     <div class="column"><img class="ui middle image" src="../images/browserhistorysemantic.png"></div>
     <div class="column"><img class="ui middle image" src="../images/islandsnow.png"></div>
   </div>
