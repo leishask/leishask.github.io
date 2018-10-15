@@ -21,12 +21,12 @@ Could it get any better? Yes, it can and it did. After three hours of learning t
 
 <div class="ui grid">
   <div class="row">
-      <img class="ui centered tiny image" src="../images/browserhistory1.png">
-      <img class="ui tiny image" src="../images/browserhistory3.png">
+      <img class="ui centered image" src="../images/browserhistory1.png">
+      <img class="ui image" src="../images/browserhistory3.png">
   </div>
   <div class="row">
-      <img class="ui centered tiny image" src="../images/browserhistorysemantic.png">
-      <img class="ui tiny image" src="../images/islandsnow.png">
+      <img class="ui centered image" src="../images/browserhistorysemantic.png">
+      <img class="ui image" src="../images/islandsnow.png">
   </div>
 </div>
 
