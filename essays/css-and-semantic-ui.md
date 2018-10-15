@@ -25,8 +25,8 @@ Could it get any better? Yes, it can and it did. After three hours of learning t
     <div class="column"><img class="ui image" src="../images/browserhistory3.png"></div>
   </div>
   <div class="three column centered row">
-    <div class="column"><img class="ui medium image" src="../images/browserhistorysemantic.png"></div>
-    <div class="column"><img class="ui medium image" src="../images/islandsnow.png"></div>
+    <div class="column"><img class="ui image" src="../images/browserhistorysemantic.png"></div>
+    <div class="column"><img class="ui image" src="../images/islandsnow.png"></div>
   </div>
 </div>
 
@@ -45,12 +45,12 @@ The four images above were arranged using the grid collection in Semantic UI cod
 ```
 <div class="ui two column centered grid">
   <div class="three column centered row">
-    <div class="column"><img class="ui medium image" src="../images/browserhistory1.png"></div>
-    <div class="column"><img class="ui medium image" src="../images/browserhistory3.png"></div>
+    <div class="column"><img class="ui image" src="../images/browserhistory1.png"></div>
+    <div class="column"><img class="ui image" src="../images/browserhistory3.png"></div>
   </div>
   <div class="three column centered row">
-    <div class="column"><img class="ui medium image" src="../images/browserhistorysemantic.png"></div>
-    <div class="column"><img class="ui medium image" src="../images/islandsnow.png"></div>
+    <div class="column"><img class="ui image" src="../images/browserhistorysemantic.png"></div>
+    <div class="column"><img class="ui image" src="../images/islandsnow.png"></div>
   </div>
 </div>
 ```
