@@ -19,7 +19,7 @@ Simply using just HTML and I was looking at a white webpage with plain black tex
 
 Could it get any better? Yes, it can and it did. After three hours of learning the components and elements of the Semantic UI framework, things just got more interesting.
 
-<div class="ui four column centered grid">
+<div class="ui two column centered grid">
   <div class="three column centered row">
     <div class="column"><img class="ui medium image" src="../images/browserhistory1.png"></div>
     <div class="column"><img class="ui medium image" src="../images/browserhistory3.png"></div>
@@ -43,14 +43,14 @@ The benefits of learning and incorporating a framework such as Semantic UI, is t
 The four images above were arranged using the grid collection in Semantic UI code. While it is still just a small advancement in appearance, we can only go up from here.
 
 ```
-<div class="ui grid">
-  <div class="row">
-      <img class="ui centered medium image" src="../images/browserhistory1.png">
-      <img class="ui medium image" src="../images/browserhistory3.png">
+<div class="ui two column centered grid">
+  <div class="three column centered row">
+    <div class="column"><img class="ui medium image" src="../images/browserhistory1.png"></div>
+    <div class="column"><img class="ui medium image" src="../images/browserhistory3.png"></div>
   </div>
-  <div class="row">
-      <img class="ui centered medium image" src="../images/browserhistorysemantic.png">
-      <img class="ui medium image" src="../images/islandsnow.png">
+  <div class="three column centered row">
+    <div class="column"><img class="ui medium image" src="../images/browserhistorysemantic.png"></div>
+    <div class="column"><img class="ui medium image" src="../images/islandsnow.png"></div>
   </div>
 </div>
 ```
