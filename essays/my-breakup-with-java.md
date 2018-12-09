@@ -10,8 +10,8 @@ labels:
   - Javascript
 ---
 
-## High School Sweethearts
-Java was my high school sweetheart. The love was young and new. However, like young love, it was complicated and it always ends up being a learning process and life lesson. You learn from the relationship and eventually find "the one".
+## College Sweethearts
+Java was my college sweetheart. The love was young and new. However, like young love, it was complicated and it always ends up being a learning process and life lesson. You learn from the relationship and eventually find "the one".
 
 Java has given me the foundation and basics to create a lasting relationship with programming. It has taught me things that I will remember as I wade through my relationships with other programming languages. Such as primitive data types, classes, object oriented programming, functions, and more. All these lessons, with the time and frustration devoted to learn them, has shaped me into a more competent and patient programmer.
 
