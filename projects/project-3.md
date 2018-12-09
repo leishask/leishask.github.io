@@ -3,7 +3,6 @@ layout: project
 type: project
 image: images/Formula1.jpg
 title: Formula 1 Database
-published: false
 permalink: projects/formula1-database
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-04

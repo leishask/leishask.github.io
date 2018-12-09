@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Where I Began and Where I am Going
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
