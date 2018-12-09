@@ -11,5 +11,8 @@ labels:
   - Meteor
   - Javascript
   - UH Manoa Clubs
-summary: A meteor app that my group developed as a final project for ICS 314.
+  - Web Application
+summary: A final group project for ICS 314 to create a meteor app of a directory for UH Manoa clubs.
 ---
+
+[Cluhbs](http://cluhbs.meteorapp.com/#/) is a meteor application developed as a directory for registered and unregistered University of Hawaii at Manoa clubs. This was a group project of four members with equal contributions to the end product.
