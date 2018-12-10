@@ -15,7 +15,7 @@ labels:
 summary: A group project for ICS 314 to develop a meteor application of a directory for University of Hawaii at Manoa clubs.
 ---
 
-<img class="ui centered medium image" src="../images/welcome-to-cluhbs.PNG">
+<img class="ui centered fluid image" src="../images/welcome-to-cluhbs.PNG">
 
 ## Welcome to [Cluhbs](http://cluhbs.meteorapp.com/#/)
 Cluhbs is a meteor application developed as a centralized directory for registered and unregistered clubs at the University of Hawaii at Manoa. This was a group project of four members with equal contributions to the end product.
