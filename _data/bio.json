@@ -52,6 +52,11 @@
       "name": "Databases",
       "keywords": [
       ]
+    },
+        {
+      "name": "Graphic Design",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -61,8 +66,12 @@
       "keywords": [
         "C",
         "C++",
+        "SQL",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Semantic UI"
       ]
     },
     {
@@ -72,8 +81,13 @@
         "Windows",
         "Linux Mint",
         "CentOS",
+        "JGrasp",
+        "UHUNIX Shell",
         "IntelliJ IDEA",
-        "Meteor"
+        "Meteor",
+        "MongoDB",
+        "React",
+        "Git/GitHub"
       ]
     }
   ],

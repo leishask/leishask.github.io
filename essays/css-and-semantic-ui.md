@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: CSS and Semantic UI Together
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
@@ -54,5 +55,3 @@ The four images above were arranged using the grid collection in Semantic UI cod
   </div>
 </div>
 ```
-
-
