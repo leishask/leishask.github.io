@@ -36,4 +36,4 @@ Overall, I greatly enjoyed this project. Working on this project with a great te
 I also feel so confident in my new found knowledge of how to create a working meteor application that I can definitely say that I will fiddle around with the tools I have acquired and maybe create another meteor application on my own.
 
 GitHub Page: <a href="https://cluhbs.github.io/"><i class="large github icon "></i>clUHbs</a>
-clUHbs: <a href="http://cluhbs.meteorapp.com/#/">clUHbs</a>
+Visit us at: <a href="http://cluhbs.meteorapp.com/#/">clUHbs</a>
