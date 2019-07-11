@@ -9,11 +9,10 @@ permalink: projects/hoala
 date: 2019-05-02
 labels:
   - Software Development
-  - Meteor
-  - Javascript
-  - UH Manoa Clubs
-  - Web Application
-summary: A group project for ICS 314 to develop a meteor application of a directory for University of Hawaii at Manoa clubs.
+  - Java
+  - Android Studio
+  - Mobile Application
+summary: A group project for ICS 414 to develop an application that manipulates a YEELIGHT Smart LED WiFi light bulb.
 ---
 
 <img class="ui centered fluid image" src="../images/welcome-to-cluhbs.PNG">
