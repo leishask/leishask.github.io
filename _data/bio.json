@@ -87,7 +87,8 @@
         "Meteor",
         "MongoDB",
         "React",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Android Studio"
       ]
     }
   ],
@@ -101,7 +102,9 @@
       "gpa": "",
       "courses": [
         "Software Engineering I",
-        "Algorithms"
+        "Algorithms",
+        "Software Engineering II",
+        "Secure Development"
       ]
     },
         {
