@@ -27,10 +27,10 @@ Beginning the user interface design process, I was originally tasked with design
 
 <div class="row">
   <div class="column">
-    <img class="ui centered fluid image" src="../images/PaperPrototypeAlarmLog.png" style="height:485">
+    <img class="ui centered fluid image" src="../images/PaperPrototypeAlarmLog.png" style="height:500px">
   </div>
   <div class="column">
-    <img class="ui centered fluid image" src="../images/PaperPrototypeSetAlarm2.png" style="height:485">
+    <img class="ui centered fluid image" src="../images/PaperPrototypeSetAlarm2.png" style="height:500px">
   </div>
 </div>
 
@@ -40,24 +40,24 @@ At our final milestone, I had completed the alarm function. By the end of the co
 
 <div class="row">
   <div class="column">
-    <img class="ui fluid image" src="../images/HoalaSearch.png">
+    <img class="ui fluid image" src="../images/HoalaSearch.png" style="height:500px">
   </div>
   <div class="column">
-    <img class="ui fluid image" src="../images/HoalaFound.png">
+    <img class="ui fluid image" src="../images/HoalaFound.png" style="height:500px">
   </div>
   <div class="column">
-    <img class="ui fluid image" src="../images/HoalaHome.png">
+    <img class="ui fluid image" src="../images/HoalaHome.png" style="height:500px">
   </div>
 </div>
 <div class="row">
   <div class="column">
-    <img class="ui fluid image" src="../images/HoalaAlarm.png">
+    <img class="ui fluid image" src="../images/HoalaAlarm.png" style="height:500px">
   </div>
   <div class="column">
-    <img class="ui fluid image" src="../images/HoalaChange.png">
+    <img class="ui fluid image" src="../images/HoalaChange.png" style="height:500px">
   </div>
   <div class="column">
-    <img class="ui fluid image" src="../images/HoalaTemp.png">
+    <img class="ui fluid image" src="../images/HoalaTemp.png" style="height:500px">
   </div>
 </div>
 
