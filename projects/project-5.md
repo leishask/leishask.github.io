@@ -11,6 +11,7 @@ labels:
   - Java
   - Android Studio
   - Mobile Application
+  - UI Design
 summary: A group project for ICS 414 to develop an application that manipulates a YEELIGHT Smart LED WiFi light bulb.
 ---
 
@@ -24,7 +25,7 @@ Since the group was downsized to a pair, I obtained the "lead" role and was most
 ## UI Design
 Beginning the user interface design process, I was originally tasked with designing the Alarm feature. Our first milestone was paper prototyping, but we made digital prototypes for easy online submission.
 
-<table style="margin-left:auto;margin-right:auto,border:2px solid black">
+<table style="margin-left:auto;margin-right:auto">
   <tr style="background-color:white">
     <td>Alarm Log Prototype</td>
     <td>Set Alarm Prototype</td>
@@ -62,7 +63,7 @@ At our final milestone, I had completed the alarm function. By the end of the co
   </tr>
  </table>
 
-## End Product
-Overall, the complete UI of our app was minimalistic and simple in design. I will admit that it can definitely use more work to be more appealing and create a better user experience. However, we were only a group of two juggling multiple classes and a limited timeline. I do believe given more time and effort directed towards this group project, the end product would have a lot more potential.
+## End Result
+Overall, the complete UI of our app was minimalistic and simple in design. I will admit that it can definitely use some work to be more appealing and create a better user experience. However, we were only a group of two juggling multiple classes and a limited timeline. I do believe given more time and effort directed towards this group project, the end product could have a lot more potential.
 
-Our video of our app demo can be watched here: <a href="https://youtu.be/Kjq8xNxlP4o">Team Ho'ala App Demo</a>
+The video of our app demo can be watched here: <a href="https://youtu.be/Kjq8xNxlP4o">Team Ho'ala App Demo</a>
