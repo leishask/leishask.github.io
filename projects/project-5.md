@@ -25,21 +25,20 @@ Since the group was downsized to a pair, I obtained the "lead" role and was most
 ## UI Design
 Beginning the user interface design process, I was originally tasked with designing the Alarm feature. Our first milestone was paper prototyping, but we made digital prototypes for easy online submission.
 
-<div class="ui grid">
-  <div class="two wide column"><img class="ui image" src="../images/PaperPrototypeAlarmLog.png"></div>
-  <div class="two wide column"><img class="ui image" src="../images/PaperPrototypeSetAlarm2.png"></div>
+<div class="ui three column grid">
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/PaperPrototypeAlarmLog.png">
+      <div class="ui bottom attached label">Alarm Log Prototype</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/PaperPrototypeSetAlarm2.png">
+      <div class="ui bottom attached label">Set Alarm Prototype</div>
+    </div>
+  </div>
 </div>
-
-<table style="margin-left:auto;margin-right:auto">
-  <tr style="background-color:#0be669">
-    <td>Alarm Log Prototype</td>
-    <td>Set Alarm Prototype</td>
-  </tr>
-  <tr>
-    <td><img src="../images/PaperPrototypeAlarmLog.png" width=230 height=409></td>
-    <td><img src="../images/PaperPrototypeSetAlarm2.png" width=230 height=409></td>
-  </tr>
- </table>
 
 By our third milestone, I was able to implement a basic user interface that successfully connects the mobile application to the bulb, include a feature to adjust the brightness and color temperature, and simply turn on and off the bulb.
 
@@ -66,37 +65,26 @@ At our final milestone, I had completed the alarm function. By the end of the co
   </div>
 </div>
 
-<div class="ui grid">
-  <div class="three wide column"><img class="ui image" src="../images/HoalaSearch.png"></div>
-  <div class="three wide column"><img class="ui image" src="../images/HoalaFound.png"></div>
-  <div class="three wide column"><img class="ui image" src="../images/HoalaHome.png"></div>
-  <div class="three wide column"><img class="ui image" src="../images/HoalaAlarm.png"></div>
-  <div class="three wide column"><img class="ui image" src="../images/HoalaChange.png"></div>
-  <div class="three wide column"><img class="ui image" src="../images/HoalaTemp.png"></div>
+<div class="ui three column grid">
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/HoalaAlarm.png">
+      <div class="ui bottom attached label">Alarm Page</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/HoalaChange.png">
+      <div class="ui bottom attached label">Adjust Bulb Page</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/HoalaTemp.png">
+      <div class="ui bottom attached label">Weather Page</div>
+    </div>
+  </div>
 </div>
-
-<table style="margin-left:auto;margin-right:auto">
-  <tr style="background-color:#0be669">
-    <td>Search</td>
-    <td>Found</td>
-    <td>Home</td>
-  </tr>
-  <tr>
-    <td><img src="../images/HoalaSearch.png" width=230 height=409></td>
-    <td><img src="../images/HoalaFound.png" width=230 height=409></td>
-    <td><img src="../images/HoalaHome.png" width=230 height=409></td>
-  </tr>
-  <tr style="background-color:#0be669">
-    <td>Alarm</td>
-    <td>Adjust</td>
-    <td>Temperature</td>
-  </tr>
-  <tr>
-    <td><img src="../images/HoalaAlarm.png" width=230 height=409></td>
-    <td><img src="../images/HoalaChange.png" width=230 height=409></td>
-    <td><img src="../images/HoalaTemp.png" width=230 height=409></td>
-  </tr>
- </table>
 
 ## End Result
 Overall, the complete UI of our app was minimalistic and simple in design. I will admit that it can definitely use some work to be more appealing and create a better user experience. However, we were only a group of two juggling multiple classes and a limited timeline. I do believe given more time and effort directed towards this group project, the end product could have a lot more potential.
