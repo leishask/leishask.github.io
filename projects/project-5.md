@@ -1,8 +1,7 @@
 ---
 layout: project
 type: project
-published: false
-image: images/cluhbs-display.png
+image: images/HoalaLogo.png
 title: Ho'ala
 permalink: projects/hoala
 # All dates must be YYYY-MM-DD format!
@@ -17,27 +16,50 @@ summary: A group project for ICS 414 to develop an application that manipulates 
 
 <img class="ui centered fluid image" src="../images/welcome-to-cluhbs.PNG">
 
-## Welcome to [Cluhbs](http://cluhbs.meteorapp.com/#/)
-Cluhbs is a meteor application developed as a centralized directory for registered and unregistered clubs at the University of Hawaii at Manoa. This was a group project of four members with equal contributions to the end product.
+## Ho'ala YEELIGHT
+For this group project, we were required to create a mobile or web application that connected to a YEELIGHT Smart LED light bulb. The application had to manipulate the light bulb to create an ambiance.
 
-The main purpose of clUHbs is to provide a simple and convenient way for UH students to find and connect with the different clubs offered at UH Manoa. While UH has a list of registered clubs and organizations, there are many that do not have this official recognition. There is also no user friendly directory that provides club information easily to the UH community. Therefore, the solution to this dilemma was implemented in the Cluhbs application.
+My group decided to create a mobile application using Android Studio. We decided on manipulating the light bulb to create a morning ambiance. The app allows the user to change the temperature and brightness of the light manually, turn on and off the light, set an alarm clock that gradually increases the brightness of the bulb to its brightest, and select a predetermined "mood" setting.
 
-<img class="ui centered fluid image" src="../images/find-a-club.PNG">
+Since the group was downsized to a pair, I obtained the "lead" role and was mostly in possession of our light bulb. Utilizing the YEELIGHT API, we were easily able to program the app to connect with the bulb. Then, I was responsible for creating the user interface and programming the alarm, light, and mood settings. My partner was responsible for setting up the weather portion of the app to scrape data from a weather database.
 
-## Teamwork Makes the Dream Work
-For this project, my main contributions were to the landing page, club directory pages and edit club page. I also contributed to the cluhbs github page.
+## UI Design
+Beginning the user interface design process, I was originally tasked with designing the Alarm feature. Our first milestone was paper prototyping, but we made digital prototypes for easy online submission.
 
-Working in a team, you always build off of each other, and this was definitely the case for this project. While I created the general mockup and layout for the club directory pages and edit club page, along the way other team mates would update and improve the functionality. As did I with the landing page.
+<div class="row">
+  <div class="column">
+    <img class="ui centered fluid image" src="../images/PaperPrototypeAlarmLog.png">
+  </div>
+  <div class="column">
+    <img class="ui centered fluid image" src="../images/PaperPrototypeSetAlarm2.png">
+  </div>
+</div>
 
-The landing page was originally designed by one team mate, but in the end, I updated and
-changed the entire layout, color scheme and logos of the Cluhbs application.
+By our third milestone, I was able to implement a basic user interface that successfully connects the mobile application to the bulb, include a feature to adjust the brightness and color temperature, and simply turn on and off the bulb.
 
-## On to the Next
-Overall, I greatly enjoyed this project. Working on this project with a great team has truly pushed me to not give sub-par work. When I was struggling to figure out how to get the search bar to work on the directory page, my group was understanding and helpful.
+At our final milestone, I had completed the alarm function. By the end of the completed project, I had also added a bonus function to allow the user to select from pre-set "moods" to adjust the light bulb to correlate with the mood selected. This function replaced the "Setting" selection that is shown in the app demo screenshots below.
 
-I also feel so confident in my new found knowledge of how to create a working meteor application that I can definitely say that I will fiddle around with the tools I have acquired and maybe create another meteor application on my own.
+<div class="row">
+  <div class="column">
+    <img class="ui fluid image" src="../images/HoalaSearch.png">
+  </div>
+  <div class="column">
+    <img class="ui fluid image" src="../images/HoalaFound.png">
+  </div>
+  <div class="column">
+    <img class="ui fluid image" src="../images/HoalaHome.png">
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img class="ui fluid image" src="../images/HoalaAlarm.png">
+  </div>
+  <div class="column">
+    <img class="ui fluid image" src="../images/HoalaChange.png">
+  </div>
+  <div class="column">
+    <img class="ui fluid image" src="../images/HoalaTemp.png">
+  </div>
+</div>
 
-<img class="ui centered fluid image" src="../images/footer.PNG">
-
-GitHub Page: <a href="https://cluhbs.github.io/"><i class="large github icon "></i>clUHbs</a>
-Visit us at: <a href="http://cluhbs.meteorapp.com/#/">clUHbs</a>
+The complete UI of our app was minimalistic and simple in design. Although it could have used more work to be more appealing and create a better user experience, we were only a group of two juggling multiple classes and a limited timeline. Our video of our app demo can be watched here: <a href="https://youtu.be/Kjq8xNxlP4o">Team Ho'ala App Demo</a>
