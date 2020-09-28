@@ -39,27 +39,27 @@ By our third milestone, I was able to implement a basic user interface that succ
 
 At our final milestone, I had completed the alarm function. By the end of the completed project, I had also added a bonus function to allow the user to select from pre-set "moods" to adjust the light bulb to correlate with the mood selected. This function replaced the "Setting" selection that is shown in the app demo screenshots below.
 
-<div class="row">
-  <div class="column">
-    <img class="ui fluid image" src="../images/HoalaSearch.png" style="height:500px">
-  </div>
-  <div class="column">
-    <img class="ui fluid image" src="../images/HoalaFound.png" style="height:500px">
-  </div>
-  <div class="column">
-    <img class="ui fluid image" src="../images/HoalaHome.png" style="height:500px">
-  </div>
-</div>
-<div class="row">
-  <div class="column">
-    <img class="ui fluid image" src="../images/HoalaAlarm.png" style="height:500px">
-  </div>
-  <div class="column">
-    <img class="ui fluid image" src="../images/HoalaChange.png" style="height:500px">
-  </div>
-  <div class="column">
-    <img class="ui fluid image" src="../images/HoalaTemp.png" style="height:500px">
-  </div>
-</div>
+<table style="margin-left:auto;margin-right:auto">
+  <tr style="background-color:gray">
+    <td>Search</td>
+    <td>Found</td>
+    <td>Home</td>
+  </tr>
+  <tr>
+    <td><img src="../images/HoalaSearch.png" width=270 height=480></td>
+    <td><img src="../images/HoalaFound.png" width=270 height=480></td>
+    <td><img src="../images/HoalaHome.png" width=270 height=480></td>
+  </tr>
+  <tr style="background-color:gray">
+    <td>Alarm</td>
+    <td>Adjust</td>
+    <td>Temperature</td>
+  </tr>
+  <tr>
+    <td><img src="../images/HoalaAlarm.png" width=270 height=480></td>
+    <td><img src="../images/HoalaChange.png" width=270 height=480></td>
+    <td><img src="../images/HoalaTemp.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 The complete UI of our app was minimalistic and simple in design. Although it could have used more work to be more appealing and create a better user experience, we were only a group of two juggling multiple classes and a limited timeline. Our video of our app demo can be watched here: <a href="https://youtu.be/Kjq8xNxlP4o">Team Ho'ala App Demo</a>
