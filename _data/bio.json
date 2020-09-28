@@ -2,11 +2,11 @@
   "basics": {
     "name": "Leisha Soberano-Keawemauhili",
     "label": "Student",
-    "picture": "https://leishask.github.io/images/leishask.jpg",
+    "picture": "https://leishask.github.io/images/leishask-profile.jpg",
     "email": "leishask@hawaii.edu",
     "phone": "",
     "website": "https://leishask.github.io/",
-    "summary": "I am a student working towards earning a B.S. in Computer Science degree at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020. I aspire to earn a career in software development.",
+    "summary": "Summer 2020 University of Hawaii at Manoa graduate with a B.S. in Computer Science. I am actively searching for a career in software development, web development, or ui/ux design.",
     "location": {
       "address": "",
       "postalCode": "96792",
@@ -34,17 +34,12 @@
       ]
     },
     {
-      "name": "Mobile App Development",
-      "keywords": [
-      ]
-    },
-        {
       "name": "Web Design",
       "keywords": [
       ]
     },
     {
-      "name": "Photography",
+      "name": "UI/UX Design",
       "keywords": [
       ]
     },
@@ -71,6 +66,8 @@
         "Javascript",
         "HTML",
         "CSS",
+        "Prolog",
+        "Lisp",
         "Semantic UI"
       ]
     },
@@ -88,23 +85,34 @@
         "MongoDB",
         "React",
         "Git/GitHub",
-        "Android Studio"
+        "Android Studio",
+        "SWI-Prolog",
+        "CLISP",
+        "paint.net"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2018-08-20",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2020-08-14",
+      "gpa": "2.99",
       "courses": [
         "Software Engineering I",
         "Algorithms",
         "Software Engineering II",
-        "Secure Development"
+        "Secure Development",
+        "Database Systems I",
+        "Introduction to Programming for the Web",
+        "Human Computer Interaction I",
+        "Operating Systems",
+        "AI Programming",
+        "Software Quality Assurance",
+        "Data Networks"
+
       ]
     },
         {
