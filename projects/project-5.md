@@ -25,6 +25,11 @@ Since the group was downsized to a pair, I obtained the "lead" role and was most
 ## UI Design
 Beginning the user interface design process, I was originally tasked with designing the Alarm feature. Our first milestone was paper prototyping, but we made digital prototypes for easy online submission.
 
+<div class="ui grid">
+  <div class="two wide column"><img class="ui image" src="../images/PaperPrototypeAlarmLog.png"></div>
+  <div class="two wide column"><img class="ui image" src="../images/PaperPrototypeSetAlarm2.png"></div>
+</div>
+
 <table style="margin-left:auto;margin-right:auto">
   <tr style="background-color:#0be669">
     <td>Alarm Log Prototype</td>
@@ -44,16 +49,19 @@ At our final milestone, I had completed the alarm function. By the end of the co
   <div class="column">
     <div class="ui segment">
       <img class="ui image" src="../images/HoalaSearch.png">
+      <div class="ui bottom attached label">Search Page</div>
     </div>
   </div>
   <div class="column">
     <div class="ui segment">
       <img class="ui image" src="../images/HoalaFound.png">
+      <div class="ui bottom attached label">Devices Discovered Page</div>
     </div>
   </div>
   <div class="column">
     <div class="ui segment">
       <img class="ui image" src="../images/HoalaHome.png">
+      <div class="ui bottom attached label">Home Page</div>
     </div>
   </div>
 </div>
