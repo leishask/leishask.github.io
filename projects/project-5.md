@@ -24,14 +24,16 @@ Since the group was downsized to a pair, I obtained the "lead" role and was most
 ## UI Design
 Beginning the user interface design process, I was originally tasked with designing the Alarm feature. Our first milestone was paper prototyping, but we made digital prototypes for easy online submission.
 
-<div class="row">
-  <div class="column">
-    <img class="ui centered fluid image" src="../images/PaperPrototypeAlarmLog.png" style="height:500px">
-  </div>
-  <div class="column">
-    <img class="ui centered fluid image" src="../images/PaperPrototypeSetAlarm2.png" style="height:500px">
-  </div>
-</div>
+<table>
+  <tr>
+    <td>Alarm Log Prototype</td>
+     <td>Set Alarm Prototype</td>
+  </tr>
+  <tr>
+    <td><img src="../images/PaperPrototypeAlarmLog.png" width=270 height=480></td>
+    <td><img src="../images/PaperPrototypeSetAlarm2.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 By our third milestone, I was able to implement a basic user interface that successfully connects the mobile application to the bulb, include a feature to adjust the brightness and color temperature, and simply turn on and off the bulb.
 
