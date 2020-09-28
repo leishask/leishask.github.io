@@ -24,7 +24,7 @@ Since the group was downsized to a pair, I obtained the "lead" role and was most
 ## UI Design
 Beginning the user interface design process, I was originally tasked with designing the Alarm feature. Our first milestone was paper prototyping, but we made digital prototypes for easy online submission.
 
-<table style="margin-left:auto;margin-right:auto">
+<table style="margin-left:auto;margin-right:auto,border:1px">
   <tr style="background-color:white">
     <td>Alarm Log Prototype</td>
     <td>Set Alarm Prototype</td>
