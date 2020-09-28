@@ -27,10 +27,10 @@ Beginning the user interface design process, I was originally tasked with design
 
 <div class="row">
   <div class="column">
-    <img class="ui centered fluid image" src="../images/PaperPrototypeAlarmLog.png">
+    <img class="ui centered fluid image" src="../images/PaperPrototypeAlarmLog.png" style="height:485">
   </div>
   <div class="column">
-    <img class="ui centered fluid image" src="../images/PaperPrototypeSetAlarm2.png">
+    <img class="ui centered fluid image" src="../images/PaperPrototypeSetAlarm2.png" style="height:485">
   </div>
 </div>
 
