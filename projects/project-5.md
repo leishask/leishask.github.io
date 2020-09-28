@@ -25,7 +25,7 @@ Since the group was downsized to a pair, I obtained the "lead" role and was most
 ## UI Design
 Beginning the user interface design process, I was originally tasked with designing the Alarm feature. Our first milestone was paper prototyping, but we made digital prototypes for easy online submission.
 
-<table style="margin-left:auto;margin-right:auto,width:100%">
+<table style="margin-left:auto;margin-right:auto">
   <tr style="background-color:#0be669">
     <td>Alarm Log Prototype</td>
     <td>Set Alarm Prototype</td>
@@ -40,7 +40,13 @@ By our third milestone, I was able to implement a basic user interface that succ
 
 At our final milestone, I had completed the alarm function. By the end of the completed project, I had also added a bonus function to allow the user to select from pre-set "moods" to adjust the light bulb to correlate with the mood selected. This function replaced the "Setting" selection that is shown in the app demo screenshots below.
 
-<table style="margin-left:auto;margin-right:auto,width:100%">
+<div class="ui centered fluid images">
+  <img class="ui image" src="../images/HoalaSearch.png">
+  <img class="ui image" src="../images/HoalaFound.png">
+  <img class="ui image" src="../images/HoalaHome.png">
+</div>
+
+<table style="margin-left:auto;margin-right:auto">
   <tr style="background-color:#0be669">
     <td>Search</td>
     <td>Found</td>
