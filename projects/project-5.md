@@ -2,7 +2,6 @@
 layout: project
 type: project
 image: images/HoalaLogo.png
-published: false
 title: Ho'ala
 permalink: projects/hoala
 # All dates must be YYYY-MM-DD format!
