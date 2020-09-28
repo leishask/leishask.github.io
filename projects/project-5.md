@@ -2,6 +2,7 @@
 layout: project
 type: project
 image: images/HoalaLogo.png
+published: false
 title: Ho'ala
 permalink: projects/hoala
 # All dates must be YYYY-MM-DD format!
@@ -13,8 +14,6 @@ labels:
   - Mobile Application
 summary: A group project for ICS 414 to develop an application that manipulates a YEELIGHT Smart LED WiFi light bulb.
 ---
-
-<img class="ui centered fluid image" src="../images/welcome-to-cluhbs.PNG">
 
 ## Ho'ala YEELIGHT
 For this group project, we were required to create a mobile or web application that connected to a YEELIGHT Smart LED light bulb. The application had to manipulate the light bulb to create an ambiance.
