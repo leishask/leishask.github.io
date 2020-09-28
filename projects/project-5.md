@@ -46,6 +46,15 @@ At our final milestone, I had completed the alarm function. By the end of the co
   <img class="ui image" src="../images/HoalaHome.png">
 </div>
 
+<div class="ui grid">
+  <div class="three wide column"><img class="ui image" src="../images/HoalaSearch.png"></div>
+  <div class="three wide column"><img class="ui image" src="../images/HoalaFound.png"></div>
+  <div class="three wide column"><img class="ui image" src="../images/HoalaHome.png"></div>
+  <div class="three wide column"><img class="ui image" src="../images/HoalaAlarm.png"></div>
+  <div class="three wide column"><img class="ui image" src="../images/HoalaChange.png"></div>
+  <div class="three wide column"><img class="ui image" src="../images/HoalaTemp.png"></div>
+</div>
+
 <table style="margin-left:auto;margin-right:auto">
   <tr style="background-color:#0be669">
     <td>Search</td>
