@@ -12,6 +12,7 @@ labels:
   - Android Studio
   - Mobile Application
   - UI Design
+  - Adobe XD
 summary: A group project for ICS 414 to develop an application that manipulates a YEELIGHT Smart LED WiFi light bulb.
 ---
 
@@ -94,7 +95,7 @@ The video of our app demo can be watched here: <a href="https://youtu.be/Kjq8xNx
 ## UI Update Recreated with Adobe XD
 I have recently decided to expand some of my skills and learn new software. Therefore, I used Adobe XD to recreate the UI design of our Ho'ala mobile application. It is a replication with some changes in color scheme and layout. Since I do not have Adobe Photoshop, I used Paint.net to design the image components.
 
-<div class="ui three column grid">
+<div class="ui four column grid">
   <div class="column">
     <div class="ui segment">
       <img class="ui image" src="../images/Hoala2Landing.png">
@@ -113,15 +114,15 @@ I have recently decided to expand some of my skills and learn new software. Ther
       <div class="ui bottom attached label">Home Page</div>
     </div>
   </div>
-</div>
-
-<div class="ui four column grid">
   <div class="column">
     <div class="ui segment">
       <img class="ui image" src="../images/Hoala2Alarm.png">
       <div class="ui bottom attached label">Alarm Page</div>
     </div>
   </div>
+</div>
+
+<div class="ui three column grid">
   <div class="column">
     <div class="ui segment">
       <img class="ui image" src="../images/Hoala2Light.png">
@@ -141,5 +142,6 @@ I have recently decided to expand some of my skills and learn new software. Ther
     </div>
   </div>
 </div>
+
 
 The main focus of recreating these UI prototypes was for me to familiarize myself with Adobe XD. Perhaps as my skills and knowledge of Adobe XD progress, I may redesign the UI to reflect a more modern and advanced style.
