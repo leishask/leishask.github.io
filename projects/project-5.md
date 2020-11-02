@@ -90,3 +90,56 @@ At our final milestone, I had completed the alarm function. By the end of the co
 Overall, the complete UI of our app was minimalistic and simple in design. I will admit that it can definitely use some work to be more appealing and create a better user experience. However, we were only a group of two juggling multiple classes and a limited timeline. I do believe given more time and effort directed towards this group project, the end product could have a lot more potential.
 
 The video of our app demo can be watched here: <a href="https://youtu.be/Kjq8xNxlP4o">Team Ho'ala App Demo</a>
+
+## UI Update Recreated with Adobe XD
+I have recently decided to expand some of my skills and learn new software. Therefore, I used Adobe XD to recreate the UI design of our Ho'ala mobile application. It is a replication with some changes in color scheme and layout. Since I do not have Adobe Photoshop, I used Paint.net to design the image components.
+
+<div class="ui three column grid">
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/Hoala2Landing.png">
+      <div class="ui bottom attached label">Landing Page</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/Hoala2Search.png">
+      <div class="ui bottom attached label">Search and Discovery Page</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/Hoala2Home.png">
+      <div class="ui bottom attached label">Home Page</div>
+    </div>
+  </div>
+</div>
+
+<div class="ui four column grid">
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/Hoala2Alarm.png">
+      <div class="ui bottom attached label">Alarm Page</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/Hoala2Light.png">
+      <div class="ui bottom attached label">Light Controls Page</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/Hoala2Mood.png">
+      <div class="ui bottom attached label">Mood Page</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/Hoala2Temp.png">
+      <div class="ui bottom attached label">Temperature Page</div>
+    </div>
+  </div>
+</div>
+
+The main focus of recreating these UI prototypes was for me to familiarize myself with Adobe XD. Perhaps as my skills and knowledge of Adobe XD progress, I may redesign the UI to reflect a more modern and advanced style.
