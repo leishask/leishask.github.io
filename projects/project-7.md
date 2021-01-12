@@ -3,20 +3,15 @@ layout: project
 type: project
 published: false
 image: images/cluhbs-display.png
-title: BudgetBuddy
-permalink: projects/BudgetBuddy
+title: Recall
+permalink: projects/Recall
 # All dates must be YYYY-MM-DD format!
-date: 2020-05-08
+date: 2019-12-18
 labels:
-  - Software Development
-  - Java
-  - Javascript
-  - Web Application
-  - React App
-  - Meteor App
+  - Human Computer Interaction
+  - UI/UX Design
   - SDLC
-  - Secure Development
-summary: A course project for ICS 427 to develop a web application while practicing secure software development.
+summary: A course project for ICS 464 to design a mobile or web application.
 ---
 
 <img class="ui centered fluid image" src="../images/welcome-to-cluhbs.PNG">

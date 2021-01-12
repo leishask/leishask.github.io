@@ -1,44 +1,76 @@
 ---
 layout: project
 type: project
-published: false
-image: images/cluhbs-display.png
+published: true
+image: images/NHEHLogo.png
 title: NHEHub
 permalink: projects/NHEHub
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-18
 labels:
   - Software Development
-  - Java
   - Javascript
   - Web Application
   - React App
-summary: A final project for ICS 415 to develop or enhance a web application.
+  - UI/UX
+summary: A final project for ICS 415 to develop or enhance a web application with focus on user interface.
 ---
 
-<img class="ui centered fluid image" src="../images/welcome-to-cluhbs.PNG">
+## The Native Hawaiian Enrichment Hub
+The Native Hawaiian Enrichment Hub, or NHEHub, is a static React app developed as an independent final project for ICS 415: Intro to Programming for the Web. The project was focused on creating or enhancing the user interface/user experience for a new website or a current website.
 
-## Welcome to [Cluhbs](http://cluhbs.meteorapp.com/#/)
-Cluhbs is a meteor application developed as a centralized directory for registered and unregistered clubs at the University of Hawaii at Manoa. This was a group project of four members with equal contributions to the end product.
+NHEHub acts as a central hub for Native Hawaiian events, services, and workshops that enrich the community. The site would allow Native Hawaiians and Hawaii residents to get involved in the community, emerge themselves in the Native Hawaiian culture, locate resources and services, and participate in community events and workshops to enrich the Native Hawaiian people and the local society.
 
-The main purpose of clUHbs is to provide a simple and convenient way for UH students to find and connect with the different clubs offered at UH Manoa. While UH has a list of registered clubs and organizations, there are many that do not have this official recognition. There is also no user friendly directory that provides club information easily to the UH community. Therefore, the solution to this dilemma was implemented in the Cluhbs application.
+## Background
+Instead of enhancing a current website, I chose to design a new website for Native Hawaiians because there was not a site that informs the Hawaii community about of Native Hawaiian events, services, and workshops. Specific groups and organizations would advertise their own resources, or locals could be informed through social media, word of mouth, fliers and banners, etc.
 
-<img class="ui centered fluid image" src="../images/find-a-club.PNG">
+## Key Features
+Since this was an independent project, I was the main and only contributor throughout the entire process. I chose the website topic, designed the mockups, and implemented the web application. However, due to the circumstances of it being a course project that was completed within the last month and a half of the semester, the site data was static and was presented through a screen recorded demo instead of a deployed site.
 
-## Teamwork Makes the Dream Work
-For this project, my main contributions were to the landing page, club directory pages and edit club page. I also contributed to the cluhbs github page.
+The main feature of the site that I wanted to showcase was the image carousel on the landing page. I utilized react-bootstrap to implement this feature.
+<div class="ui three column grid">
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/NHEHCarousel1.png">
+      <div class="ui bottom attached label">Carousel Image 1</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/NHEHCarousel2.png">
+      <div class="ui bottom attached label">Carousel Image 2</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui image" src="../images/NHEHCarousel3.png">
+      <div class="ui bottom attached label">Carousel Image 3</div>
+    </div>
+  </div>
+</div>
 
-Working in a team, you always build off of each other, and this was definitely the case for this project. While I created the general mockup and layout for the club directory pages and edit club page, along the way other team mates would update and improve the functionality. As did I with the landing page.
+Another feature was the calendar to present upcoming and past events and workshops. One of the most difficult parts of the project was finding a way to implement the calendar feature and populate the calendar with data.
+<img class="ui centered fluid image" src="../images/NHEHCalendar.PNG">
 
-The landing page was originally designed by one team mate, but in the end, I updated and
-changed the entire layout, color scheme and logos of the Cluhbs application.
+The demo of the website from 2019 can viewed:
+<iframe width="420" height="315"
+src="https://youtu.be/81snQbHYL_s">
+</iframe>
 
-## On to the Next
-Overall, I greatly enjoyed this project. Working on this project with a great team has truly pushed me to not give sub-par work. When I was struggling to figure out how to get the search bar to work on the directory page, my group was understanding and helpful.
+## Always Improving
+While updating my portfolio in 2020, I decided on improving the user interface of the website since I was limited on time the first go around. I updated the landing page and directory page.
 
-I also feel so confident in my new found knowledge of how to create a working meteor application that I can definitely say that I will fiddle around with the tools I have acquired and maybe create another meteor application on my own.
-
-<img class="ui centered fluid image" src="../images/footer.PNG">
-
-GitHub Page: <a href="https://cluhbs.github.io/"><i class="large github icon "></i>clUHbs</a>
-Visit us at: <a href="http://cluhbs.meteorapp.com/#/">clUHbs</a>
+<div class="ui two column grid">
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui centered fluid image" src="../images/NHEHLanding.png">
+      <div class="ui bottom attached label">NHEH Landing Update</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui centered fluid image" src="../images/NHEHDirectory.png">
+      <div class="ui bottom attached label">NHEH Directory Update</div>
+    </div>
+  </div>
+</div>

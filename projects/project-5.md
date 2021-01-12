@@ -92,7 +92,7 @@ Overall, the complete UI of our app was minimalistic and simple in design. I wil
 
 The video of our app demo can be watched here: <a href="https://youtu.be/Kjq8xNxlP4o">Team Ho'ala App Demo</a>
 
-## UI Update Recreated with Adobe XD
+<!-- ## UI Update Recreated with Adobe XD
 I have recently decided to expand some of my skills and learn new software. Therefore, I used Adobe XD to recreate the UI design of our Ho'ala mobile application. It is a replication with some changes in color scheme and layout. Since I do not have Adobe Photoshop, I used Paint.net to design the image components.
 
 <div class="ui four column grid">
@@ -144,4 +144,4 @@ I have recently decided to expand some of my skills and learn new software. Ther
 </div>
 
 
-The main focus of recreating these UI prototypes was for me to familiarize myself with Adobe XD. Perhaps as my skills and knowledge of Adobe XD progress, I may redesign the UI to reflect a more modern and advanced style.
+The main focus of recreating these UI prototypes was for me to familiarize myself with Adobe XD. Perhaps as my skills and knowledge of Adobe XD progress, I may redesign the UI to reflect a more modern and advanced style. -->

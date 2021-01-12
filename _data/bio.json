@@ -68,7 +68,10 @@
         "CSS",
         "Prolog",
         "Lisp",
-        "Semantic UI"
+        "Semantic UI",
+        "Meteor",
+        "MongDB",
+        "React"
       ]
     },
     {
@@ -81,9 +84,6 @@
         "JGrasp",
         "UHUNIX Shell",
         "IntelliJ IDEA",
-        "Meteor",
-        "MongoDB",
-        "React",
         "Git/GitHub",
         "Android Studio",
         "SWI-Prolog",
