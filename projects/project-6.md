@@ -31,19 +31,19 @@ The main feature of the site that I wanted to showcase was the image carousel on
   <div class="column">
     <div class="ui segment">
       <img class="ui image" src="../images/NHEHCarousel1.PNG">
-      <div class="ui bottom attached label">Carousel Image 1</div>
+      <p>Carousel Image 1</p>
     </div>
   </div>
   <div class="column">
     <div class="ui segment">
       <img class="ui image" src="../images/NHEHCarousel2.PNG">
-      <div class="ui bottom attached label">Carousel Image 2</div>
+      <p>Carousel Image 2</p>
     </div>
   </div>
   <div class="column">
     <div class="ui segment">
       <img class="ui image" src="../images/NHEHCarousel3.PNG">
-      <div class="ui bottom attached label">Carousel Image 3</div>
+      <p>Carousel Image 3</p>
     </div>
   </div>
 </div>
@@ -57,19 +57,6 @@ The demo of the website from 2019 can viewed here: <a href="https://youtu.be/81s
 While updating my portfolio in 2020, I decided on improving the user interface of the website since I was limited on time the first go around. I updated the landing page and directory page.
 
 <img class="ui centered fluid image" src="../images/NHEHLanding.png">
+<p>NHEH Landing Update</p>
 <img class="ui centered fluid image" src="../images/NHEHDirectory.png">
-
-<div class="ui two column grid">
-  <div class="column">
-    <div class="ui segment">
-      <img class="ui centered fluid image" src="../images/NHEHLanding.png">
-      <div class="ui bottom attached label">NHEH Landing Update</div>
-    </div>
-  </div>
-  <div class="column">
-    <div class="ui segment">
-      <img class="ui centered fluid image" src="../images/NHEHDirectory.png">
-      <div class="ui bottom attached label">NHEH Directory Update</div>
-    </div>
-  </div>
-</div>
+<p>NHEH Directory Update</p>
