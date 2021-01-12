@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-published: true
 image: images/NHEHLogo.png
 title: NHEHub
 permalink: projects/NHEHub
@@ -31,19 +30,19 @@ The main feature of the site that I wanted to showcase was the image carousel on
 <div class="ui three column grid">
   <div class="column">
     <div class="ui segment">
-      <img class="ui image" src="../images/NHEHCarousel1.png">
+      <img class="ui image" src="../images/NHEHCarousel1.PNG">
       <div class="ui bottom attached label">Carousel Image 1</div>
     </div>
   </div>
   <div class="column">
     <div class="ui segment">
-      <img class="ui image" src="../images/NHEHCarousel2.png">
+      <img class="ui image" src="../images/NHEHCarousel2.PNG">
       <div class="ui bottom attached label">Carousel Image 2</div>
     </div>
   </div>
   <div class="column">
     <div class="ui segment">
-      <img class="ui image" src="../images/NHEHCarousel3.png">
+      <img class="ui image" src="../images/NHEHCarousel3.PNG">
       <div class="ui bottom attached label">Carousel Image 3</div>
     </div>
   </div>
@@ -52,13 +51,13 @@ The main feature of the site that I wanted to showcase was the image carousel on
 Another feature was the calendar to present upcoming and past events and workshops. One of the most difficult parts of the project was finding a way to implement the calendar feature and populate the calendar with data.
 <img class="ui centered fluid image" src="../images/NHEHCalendar.PNG">
 
-The demo of the website from 2019 can viewed:
-<iframe width="420" height="315"
-src="https://youtu.be/81snQbHYL_s">
-</iframe>
+The demo of the website from 2019 can viewed here: <a href="https://youtu.be/81snQbHYL_s">NHEH Demo Video</a>
 
 ## Always Improving
 While updating my portfolio in 2020, I decided on improving the user interface of the website since I was limited on time the first go around. I updated the landing page and directory page.
+
+<img class="ui centered fluid image" src="../images/NHEHLanding.png">
+<img class="ui centered fluid image" src="../images/NHEHDirectory.png">
 
 <div class="ui two column grid">
   <div class="column">
